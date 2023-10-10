@@ -1,4 +1,4 @@
-# <a name="top"></a>Household Migration Patterns in the US and Canada: ## Where Is America Moving?
+# <a name="top"></a>Household Migration Patterns in the US and Canada: Where Is America Moving?
 
 by: Victoire Migashane
 
