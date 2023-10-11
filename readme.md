@@ -1,4 +1,4 @@
-# <a name="top"></a>Household Migration Patterns in the US and Canada: Where Is America Moving?
+# <a name="top"></a>Household Migration Patterns in the US and Canada: Where are people moving?
 
 by: Victoire Migashane
 
@@ -11,50 +11,53 @@ by: Victoire Migashane
 ---
 
 # Project Description
-This project will helps me better understand and manage my money by analyzing bank transaction data from Fifth Third bank and Chase bank. It will provide insights into my spending, help me stick to a budget, track my income and savings patterns, and visualize my finances for easier decision-making.
+In 2022, the Atlas® Van Lines study found that many Americans moved to places where more people were living. This is a change from before when people often moved to cheaper states. Now, other reasons like being closer to family are more important. I am trying to replicate the 2022 study for educational purposes.
 
 # Project Goal
-  * Create a tool that automatically sorts your spending into categories like groceries, entertainment, and bills.
-  * Build a system to set budgets and get warnings when you're close to overspending.
-  * Examine your earnings and savings over time to spot trends.
-  * Analyze when you get money and when you spend it to make timing-based decisions.
-  * Create easy-to-read charts and graphs to visualize your financial data.
+  * Answer the question "Where are most people moving".
 
 # Initial Thoughts
 
 
 # The Plan
-    * Acquire all bank statement data from my Fifth Third and Chase bank acounts.
-    * Read tables from back statements and covert data to csv.
+    * Acquire data from [data.world](https://data.world/makeovermonday/2023w3)
+    * Clean and analyse the data
+    * Create interactive visuls with Tableau
     
   * Prepare data
     * Rename columns
-    * No null values in the data  
+    * No null values in the data
+    * Change column data types
+    * Save separete CSV
       
   * Explore the data
-    * Use Recursive Feature Elimination to determine best features for wine quality
     * Answer the questions:
-        * 
-        
-  * Develop a model 
-    * Use accuracy as my evaluation metric.
-   
-  * Make conclusions.
+        - Which country have most people moving from/to?
+        - What states/provence are most people moving from/to?
 
 # Data Dictionary
+
+| Column Name       | Description                                                                      |
+|-------------------|----------------------------------------------------------------------------------|
+| country           | The country where the migration data is recorded (e.g., "US" or "Canada").      |
+| state_or_province | The specific state or province within the country where migration data is recorded. |
+| year              | The year in which the migration data was collected.                               |
+| inbound           | The number of households or people moving into the specified state or province during the given year. |
+| outbound          | The number of households or people moving out of the specified state or province during the given year. |
 
 
 # Steps to Reproduce
   * Clone this repo
-  * Acquire the data from your own banks
-  * Put the data in the same file as cloned repo
-  * Run the final_report notebook
+  * Acquire the data from data.world
+  * Run trough the readme notes
 
-# Conclusions
-  * 
+# Conclusions and take aways
 
-# Next Steps
-  * 
-
-# Recommendations
-  * 
+    - People are moving  to the United States more than they are in Canada.
+    - People are moving away from the United States more than they are in Canada.
+    - Most people are moving away from Saskatchewan, Manitoba, and Ontario
+    - Most americans are moving away from New York, Illinois, and Louisiana.
+    - Most canadians are moving away from Saskatchewan, Manitoba, and Ontario.
+    - Most people are moving to North Carolina, Idaho, and Tennessee.
+    - Most canadians are moving to Newfoundland and Labrador, Nova Scotia, New Brunshwick.
+    - Most americans are moving to North Carolina, Idaho, and Tennessee.
