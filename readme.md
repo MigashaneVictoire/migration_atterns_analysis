@@ -61,3 +61,7 @@ In 2022, the Atlas® Van Lines study found that many Americans moved to places w
     - Most people are moving to North Carolina, Idaho, and Tennessee.
     - Most canadians are moving to Newfoundland and Labrador, Nova Scotia, New Brunshwick.
     - Most americans are moving to North Carolina, Idaho, and Tennessee.
+    
+# Dashboard
+
+[![Migration Image](migration_image.png)](https://public.tableau.com/views/HouseholdMigrationPatternsintheUSandCanada/migration?:language=en-US&:display_count=n&:origin=viz_share_link)
