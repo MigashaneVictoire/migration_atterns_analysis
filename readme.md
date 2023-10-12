@@ -64,4 +64,4 @@ In 2022, the Atlas® Van Lines study found that many Americans moved to places w
     
 # Dashboard
 
-[![Migration Image](migration_image.png)](https://public.tableau.com/views/HouseholdMigrationPatternsintheUSandCanada/migration?:language=en-US&:display_count=n&:origin=viz_share_link)
+[![Migration Image](migration_dash_image.png)](https://public.tableau.com/views/HouseholdMigrationPatternsintheUSandCanada/migration?:language=en-US&:display_count=n&:origin=viz_share_link)
