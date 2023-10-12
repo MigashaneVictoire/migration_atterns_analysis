@@ -20,9 +20,9 @@ In 2022, the Atlas® Van Lines study found that many Americans moved to places w
 
 
 # The Plan
-    * Acquire data from [data.world](https://data.world/makeovermonday/2023w3)
-    * Clean and analyse the data
-    * Create interactive visuls with Tableau
+* Acquire data from [data.world](https://data.world/makeovermonday/2023w3)
+* Clean and analyse the data
+* Create interactive visuls with Tableau
     
   * Prepare data
     * Rename columns
@@ -53,14 +53,14 @@ In 2022, the Atlas® Van Lines study found that many Americans moved to places w
 
 # Conclusions and take aways
 
-    - People are moving  to the United States more than they are in Canada.
-    - People are moving away from the United States more than they are in Canada.
-    - Most people are moving away from Saskatchewan, Manitoba, and Ontario
-    - Most americans are moving away from New York, Illinois, and Louisiana.
-    - Most canadians are moving away from Saskatchewan, Manitoba, and Ontario.
-    - Most people are moving to North Carolina, Idaho, and Tennessee.
-    - Most canadians are moving to Newfoundland and Labrador, Nova Scotia, New Brunshwick.
-    - Most americans are moving to North Carolina, Idaho, and Tennessee.
+- People are moving  to the United States more than they are in Canada.
+- People are moving away from the United States more than they are in Canada.
+- Most people are moving away from Saskatchewan, Manitoba, and Ontario
+- Most americans are moving away from New York, Illinois, and Louisiana.
+- Most canadians are moving away from Saskatchewan, Manitoba, and Ontario.
+- Most people are moving to North Carolina, Idaho, and Tennessee.
+- Most canadians are moving to Newfoundland and Labrador, Nova Scotia, New Brunshwick.
+- Most americans are moving to North Carolina, Idaho, and Tennessee.
     
 # Dashboard
 
